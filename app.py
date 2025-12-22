@@ -51,7 +51,7 @@ if not st.session_state.authenticated:
     st.stop()
 # Sidebar Navigation
 page = st.sidebar.selectbox(
-    "📄 Go to Page",
-    ("Dashboard", "Upload Data", "Finance Chatbot", "Settings")
+    "📄 Go to ajel Page",
+    ("Dashboard", "Upload Data", "Finance Chatbot", "Settings","My Photo")
 )
 
