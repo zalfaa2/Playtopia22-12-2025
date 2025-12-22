@@ -20,8 +20,8 @@ import streamlit as st
 
 # Dummy user data (untuk simulasi login)
 USERS = {
-    "admin": "admin123",
-    "user1": "password1"
+    "admin": "zalfa",
+    "user1": "ajel02"
 }
 
 # Konfigurasi halaman
