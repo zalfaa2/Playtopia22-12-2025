@@ -1,7 +1,5 @@
 # import streamlit as st
 
-# st.write("Hello, *Cintakuu!* :sunglasses:")
-
 # import streamlit as st
 
 # st.set_page_config(
@@ -54,7 +52,7 @@ if not st.session_state.authenticated:
     st.stop()
 # Sidebar Navigation
 page = st.sidebar.selectbox(
-    "📄 Go to ajel Page",
+    "📄 Go to zalfa Page",
     ("Dashboard", "Upload Data", "Finance Chatbot", "Settings","My Photo")
 )
 # Sample chatbot reply
